@@ -1,0 +1,9 @@
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="{{ homepage_url }}">Home</a> &raquo;</li>
+    {% if current_page.title != 'Home'%}
+    <li>{{ current_page.title }}</li>
+    {%endif%}
+  </ul>
+  <hr/>
+</div>
