@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2629'>
+
+<front>
+<title>Open Trust Taxonomy for OAuth2</title>
+<author initials='M.S.S.' surname='Schwartz' fullname='Michael S. Schwartz'>
+<organization>Gluu, Inc.</organization>
+<address>
+<postal>
+<street>600 Congress Avenue</street>
+<city>Austin</city>
+<region>TX</region>
+<code>78701</code>
+<country>US</country></postal>
+<phone>+1 555-555-1212 </phone>
+<email>mike@gluu.org</email>
+<uri>http://gluu.org/</uri></address></author>
+<date year='2015' month='April' />
+<area>General</area>
+<keyword>RFC</keyword>
+<keyword>Request for Comments</keyword>
+<keyword>Internet-Draft</keyword>
+<keyword>oauth2</keyword>
+<keyword>federation</keyword>
+<keyword>authentication</keyword>
+<keyword>authorization</keyword>
+<abstract>
+<t>This memo presents a technique for using OAuth to enable a central federation to register and publish cryptographic metadata for its members.
+</t></abstract></front>
+<seriesInfo name='RFC' value='2629' />
+<format type='TXT' octets='48677' target='ftp://ftp.isi.edu/in-notes/rfc2629.txt' />
+<format type='HTML' octets='58930' target='http://xml.resource.org/public/rfc/html/rfc2629.html' />
+<format type='XML' octets='50797' target='http://xml.resource.org/public/rfc/xml/rfc2629.xml' />
+</reference>

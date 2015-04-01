@@ -1,5 +1,5 @@
-Otto Documentation
-==================
+OTTO Working Group Documentation
+================================
 
 Install virtualenv if necessary:
 
@@ -29,8 +29,4 @@ To run the server locally:
 
 The home repository for this project is:
 
-- [https://github.com/GluuFederation/docs](https://github.com/GluuFederation/docs-cluster)
-
-If you would like to contribute documentation please post a message on 
- http://support.gluu.org
-
+- [https://github.com/nynymike/otto](https://github.com/nynymike/otto)
