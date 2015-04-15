@@ -11,7 +11,6 @@ Attending the call:
 Apologies:
   Joni Brennan
   Dazza Greenwood
-  Peter Schobel
   
 1. Introductions:
 

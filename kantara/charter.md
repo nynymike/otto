@@ -52,6 +52,5 @@ none
 
 - OCLC
 - Internet2
-- Peter Schober, Universität Wien
 
 
