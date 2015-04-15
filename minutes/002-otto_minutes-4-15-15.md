@@ -65,7 +65,7 @@ Please email mike@gluu.org with your github username to get added as a collabora
 
 ## Documentation format
 
-Mike forgot to mention this, but he would like to suggest using Mkdocs for the documentation output of the WG. See http://www.mkdocs.org for more info. This would enable the group to leverage Github markdown formatting, but would provide a nice way to publish the site as formatted HTML. An inital mkdocs site has already been checked in under the 'docs' folder in github.
+Mike forgot to mention this, but he would like to suggest using Mkdocs for the documentation output of the WG. See http://www.mkdocs.org for more info. This would enable the group to leverage Github markdown formatting, but would provide a nice way to publish the site as formatted HTML. An inital mkdocs site has already been checked in under the [docs](../docs) folder in github.
 
 
 ## Gotomeeting
