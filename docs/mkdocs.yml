@@ -23,7 +23,13 @@ pages:
 - ['schema/federation.md', 'Schema', 'Federation']
 
 # API section
-- ['api/discovery.md', 'API', 'discovery']
-- ['api/register.md', 'API', 'register']
-- ['api/metadata.md', 'API', 'metadata']
+- ['api/discovery.md', 'API', 'Public Discovery']
+- ['api/register.md', 'API', 'Register']
+- ['api/metadata.md', 'API', 'Metadata']
 
+# Use Case section
+- ['use-cases/op-discovery.md', 'Use Cases', 'OP-Discovery']
+- ['use-cases/client-registration.md', 'Use Cases', 'Client Registration']
+- ['use-cases/private-discovery.md', 'Use Cases', 'Private Discovery']
+- ['use-cases/person-enrollment.md', 'Use Cases', 'Person Enrollment']
+- ['use-cases/restricted-client-access.md', 'Use Cases', 'Restricted Client Access']
