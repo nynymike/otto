@@ -74,3 +74,6 @@ This is the new gotomeeting from now just for OTTO. Next week we will change to 
 
 - Access Code: 162-399-285
 
+## Other
+
+Judith committed her [handwritten notes](./003-otto_notes_jeb-4-22-15.pdf)
