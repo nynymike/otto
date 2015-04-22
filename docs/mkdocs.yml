@@ -14,7 +14,6 @@ pages:
 
 # Home Page
 - ['index.md', 'Home']
-- ['charter.md', 'Charter']
 - ['schedule.md', 'Schedule']
 
 # Schema Sections
