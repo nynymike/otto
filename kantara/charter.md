@@ -6,17 +6,33 @@ Open Trust Taxonomy for OAuth2 (OTTO)
 
 ## PURPOSE
 
-The working group will develop a set of API's and related data structures to enable an Internet domain to create a multi-party federation, enabling it to manage which OAuth2 entities it trusts, and to publish technical and legal information to drive down the cost of collaboration.
+The working group will develop the basic structures needed for the creation of multi-party federations between OAuth2 entities in order to publish technical and legal information which should drive down the cost of collaboration. These structures will include the set of APIs and related data structures enabling an ~~internet domain~~ OAuth entity to manage which ~~OAuth2~~ entities it trusts and for other OAuth entities to discover members of the federation and details of the services. 
+
+The Work Group is necessary ro bring together collaborators from existing SAML federations and the OAuth community to collaborate on a draft solution that meets their shared goals in this area and takes into account lessons learned from the past ten years of SAML.
+
+Specifically, this Work Group is responsible for:
+* Developing a set of use cases and requirements that are specific enough to guide the specification design work
+* Developing a set of modular draft specifications meeting these use cases and requirements, influenced by contributions as appropriate
+* Overseeing the contribution of each resulting draft specification to a standards-setting organization
+
+The group will target  completion of the specifications by 1/15/16.
+
+*JEB copied sections from from https://kantarainitiative.org/confluence/display/uma/Charter *
 
 ## SCOPE
 
-The API's and data structures will enable discovery of the members of the federation and details about their services, key material and technical capabilities. The final scope will be refined after consideration of the use cases.
+The APIs and data structures will enable discovery of the members of the federation and details about their services, key material and technical capabilities. The final scope will be refined after consideration of the use cases. 
+
+Existing SAML Federation XML structures will inform this work, but the data structures will not be expressed in XML but in json. The functions supported in existing SAML federations should be supported. Extensions to support a more scalable discovery processe and dynamic integration process should be considered.
+
 
 ## DRAFT TECHNICAL SPECIFICATIONS
 
+The following technical specifications should be produced, with modular spec boundaries subject to change.  The specifications will then be submitted to appropriate standards bodies for further work and completion:
+ 
 - Open Trust Taxonomy for OAuth2 Core Specification
 - Open Trust Taxonomy for OAuth2 Metadata Schema Definition
-- Schedule Completion of the specifications by 1/15/16
+
 
 ## LEADERSHIP
 
@@ -30,6 +46,7 @@ Existing federation operators and any group of autonomous organizations that nee
 ## DURATION 
 
 Working Group would dissolve shortly after the finalization of the standard.
+
 
 ## IPR POLICY 
 
@@ -52,5 +69,3 @@ none
 
 - OCLC
 - Internet2
-
-
