@@ -45,7 +45,7 @@ Working Group would dissolve shortly after the finalization of the standard.
 
 ## IPR POLICY 
 
-Kantara Initiative IPR Policy
+Option Patent and Copyright Reciprocal Royalty Free with Opt-Out to (RAND)
 
 ## RELATED WORK AND LIAISONS 
 
