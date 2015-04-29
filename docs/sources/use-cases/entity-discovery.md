@@ -13,4 +13,5 @@ each entity.
 - Leverage Webfinger? RFC 7033. Perhaps OTTO entity discovery is a profile of Webfinger?
 - Allows per entity query?
 - JOSE signing of metadata? 
+- Key rotation happens a lot in OpenID Connect. How would entities update their keys?
 
