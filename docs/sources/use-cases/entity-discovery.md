@@ -14,4 +14,5 @@ each entity.
 - Allows per entity query?
 - JOSE signing of metadata? 
 - Key rotation happens a lot in OpenID Connect. How would entities update their keys?
+- Should metadata be extended? -  with an attribute to inform client that dynamic registration request must be signed
 
