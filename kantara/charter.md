@@ -1,4 +1,4 @@
-# Draft Charter
+# Kantara OTTO Charter
 
 ## WG NAME
 
