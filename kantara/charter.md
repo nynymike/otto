@@ -58,9 +58,5 @@ none
 ## PROPOSERS
 
 - Michael Schwartz
-
-## POTENTIAL PROPOSERS
-
-- OCLC
-- Internet2
+- Keith Hazelton, Internet2
 - Janusz Ulanowski, Edugate
