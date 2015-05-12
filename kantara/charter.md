@@ -32,8 +32,8 @@ The following technical specifications should be produced, with modular spec bou
 
 ## LEADERSHIP
 
-Co-Chair, Michael Schwartz
-Co-Chair, Janusz Ulanowski, Edugate
+- Co-Chair, Michael Schwartz
+- Co-Chair, Janusz Ulanowski, Edugate
 
 ## AUDIENCE
 
