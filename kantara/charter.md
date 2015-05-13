@@ -33,7 +33,7 @@ The following technical specifications should be produced, with modular spec bou
 ## LEADERSHIP
 
 - Co-Chair, Michael Schwartz
-- Co-Chair, Janusz Ulanowski, Edugate
+- Co-Chair, Janusz Ulanowski, HEAnet
 
 ## AUDIENCE
 
@@ -59,4 +59,4 @@ none
 
 - Michael Schwartz
 - Keith Hazelton, Internet2
-- Janusz Ulanowski, Edugate
+- Janusz Ulanowski, HEAnet
