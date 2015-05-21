@@ -7,6 +7,8 @@ A domain may want to discover all the OpenID Providers, Relying Parties, UMA Aut
 UMA Resource Servers, and UMA clients in the federation. The federation may vet and include details about 
 each entity.
 
+Perhaps Webfinger provides the query mechanism for Discovery.
+
 ### Considerations:
 
 - Private Discovery: In some cases, authorization may be required to get access to federation member details. Use UMA?
