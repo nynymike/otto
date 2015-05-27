@@ -13,3 +13,5 @@ The values used for amr can be defined by the federation. An example AMR values 
   Example: ['duo', '10', 'https://federation.org/schema/acr/duo', 'silver']
 7. *Resource:Policy Mapping* Example: {'federation/over21': ['https://federation.org/schema/uma/releaseAge'],
                                        'library/inter-library-loan': [https://federation.org/schema/uma/isMember']'}
+8. Contain naming system to allow distinct, non-reassignable identification of a person, like
+edupersonUniqueID.
