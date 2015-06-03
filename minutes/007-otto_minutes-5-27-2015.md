@@ -39,8 +39,8 @@ rushing to define a specify token format.
 - **entity-discovery** Not much discussing, this is clearly in scope.
 
 - **Person-enrollment** Need to understand this better. Normally the person is 
-enrolled at the IDP? How would the federation's involvment in person enrollment 
-helpful?
+enrolled at the IDP? How would the federation's involvement in person enrollment 
+be helpful?
 
 - **client-registration** Janusz mentioned that this is one of the most important 
 use cases for Edugate. Also clearly in scope.
@@ -54,7 +54,7 @@ better understand the use case.
 higher education effort to collaborate on security incident response. Parity with 
 SAML should be the minimum goal.
 
-- **trust-elevation** Mike thinks that OTTO could faciliate inter-domain trust 
+- **trust-elevation** Mike thinks that OTTO could facilitate inter-domain trust 
 elevation. Although perhaps nothing more is needed than schema alignment.
 
 - **Schema** Not much discussion, looks good.
